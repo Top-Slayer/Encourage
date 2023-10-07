@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "28112003-12032004-14072023",
+    "public": "Website",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
